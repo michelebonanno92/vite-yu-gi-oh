@@ -23,7 +23,7 @@ export default {
 @use '../assets/scss/partials/variables' as *;
 
 header {
-  background-color: $headerBgColor;
+  height: 15vh;
   text-align: center;
   padding: 20px 0;
   div > img {
